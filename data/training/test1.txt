@@ -1,0 +1,35 @@
+Samsung launched the costliest Android smartphone in the form of Galaxy S24 Ultra in 2024 which starts at ₹1,29,999 for 12GB/256GB. The successor of the S23 Ultra runs on Qualcomm’s latest mobile platform, Snapdragon 8 Gen 3, along with an in-depth collaboration with Google to popularise Gemini and bring more native AI adventures to the S24 Ultra. Would you mind spending double the price of the OnePlus 12 on it? Let’s read.
+
+Design
+Not a fundamental shift in design compared to the S23 Ultra, but the South Korean electronics major brings a titanium frame (like iPhone 15 Pro models) in the S24 Ultra making it lighter and stronger. The hand grip is firm, the design is not slippery, and it does not carry finger imprints either. The flat design is complemented by a flat display having a punch hole display. The S-Pen, speaker grille, Type-C port and SIM tray are placed together at the bottom. The right side has power and volume keys. The weight distribution is uniform despite being 239 grams.
+
+Galaxy S24 Ultra design
+Galaxy S24 Ultra design | Photo Credit: Haider Ali Khan
+
+The IP68 certification and Corning Gorilla Armor protection add durability to the super-costly phone.
+
+Display
+The display on the Samsung Galaxy S24 Ultra lives up to expectations for a premium smartphone. At 6.8 inches, it’s massive yet still comfortable enough for daily use. The Dynamic AMOLED panel produces vivid, accurate colours in both standard and Vivid modes. It also gets incredibly bright, hitting a peak of 2,600 nits in direct sunlight whereas the OnePlus 12 hits 4,500 nits. This makes the screen easy to view outdoors. Even at the lowest level of brightness down to 1 nit, it maintains good colour and visibility so you can use it discreetly in very dim light.
+
+Samsung also retains features like the always-on display and S-View flip case compatibility for quick glances at notifications. The 120Hz refresh rate keeps motion smooth during scrolling and gameplay.
+
+(For top technology news of the day, subscribe to our tech newsletter Today’s Cache)
+
+It was surprising to see the S24 Ultra not supporting the Dolby Vision whereas we saw OnePlus 12 offering it at a much lower price. That said, for most users not directly comparing phones, the S24 Ultra screen still delivers an excellent viewing experience. Only videophiles focused on HDR formats have any reason to favour OnePlus on display prowess alone. For everyday usage, web browsing, social media, and even mobile gaming, the Galaxy S24 Ultra display shines.
+
+AI
+The Samsung Galaxy S24 Ultra comes packed with several innovative AI-powered features that aim to enhance the phone’s capabilities and user experience. Some of the key highlights include Live Translation for real-time translation during calls, Interpreter mode for face-to-face text transcription between two languages, Circle to Search to easily initiate searches by circling objects, Chat Assist to refine the tone of written messages, Generative Edit to seamlessly remove objects from photos, Note Assist to generate summaries and translations of notes and more. With this robust set of AI tools spanning across areas like visuals, language, communication and productivity, the S24 Ultra clearly establishes itself as one of the most advanced AI-driven smartphones yet.
+
+In comparison, the Google Pixel 8 Pro also offers some compelling AI functionalities like Magic Editor for complex photo edits, Best Take to composite the best facial expressions from a photo series, Call Screen powered by the Google Assistant to filter out spam calls, and Audio Magic Eraser to remove unwanted sounds from videos.
+
+While both smartphones push the envelope when it comes to on-device AI, Samsung seems to have an edge with more features covering a wider range of use cases. However, for those primarily looking for AI photo/video editing and spam call filtering, the Pixel 8 Pro offers those core capabilities at a relatively more affordable price point. So, from an AI-first perspective, the Pixel 8 Pro gives much of the S24 Ultra’s firepower for less.
+
+Performance
+Powered by the latest Snapdragon 8 Gen 3 chipset and Adreno 740 GPU, the same which we saw in the OnePlus 12, Samsung Galaxy S24 Ultra delivers fast performance whether it’s intensive gaming or daily tasks. The octa-core processor comprising high-performance Cortex-X4 and Cortex-A720 cores can achieve peak speeds up to 3.39GHz. Combined with the vapour cooling chamber and titanium build for superior thermal management, the S24 Ultra posts impressive benchmarks in applications and games without any signs of throttling or slowdowns.
+
+In our testing, graphics-heavy mobile titles like Genshin Impact and Asphalt 9 ran smoothly at max settings with consistent frame rates. The phone responds instantly when launching apps, switching between open programs, or just scrolling web pages and social media feeds. For a flagship phone geared more towards productivity and content creation features, the S24 Ultra proves itself as an extremely capable gaming device as well. Users who prioritise raw processing power and benchmark numbers above all else, can consider the OnePlus 12 with the same Snapdragon 8 Gen 3 SoC as well.
+
+The Galaxy S24 series comes with One UI 6.1 based on Android 14 out of the box, promising seven years of software and OS support from Samsung.
+
+Camera
+The Samsung Galaxy S24 Ultra features a quad camera system, headlined by a high-resolution 200MP wide sensor for capturing intricate details and bright, vivid images. It includes a 12MP ultra-wide lens with a 120-degree field of view suited for expansive landscapes and architecture photography. The phone also incorporates a 5x optical zoom telephoto camera with a 50MP sensor, replacing the S23 Ultra’s 10x periscope lens. This 5x telephoto range proves more versatile for everyday shooting scenarios. Rounding out the rear setup is a 10MP telephoto camera with 3x optical zoom.
